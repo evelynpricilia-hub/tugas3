@@ -1,12 +1,16 @@
+*{
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+}
 body {
-    font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4
 }
-header {
-    background: #807BFF;
+header, nav, main, section, article{
+    background: #e97bff;
     color: white;
     text-align: center;
 
@@ -20,14 +24,14 @@ nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: white;
+    color: #7a2046;
     text-decoration: none;
 }
 main {
     padding: 20px;
 }
 section, article {
-    background: white;
+    background: #c066b9;
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 5px;
