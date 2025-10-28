@@ -11,7 +11,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f9f4;
-    color: #333;
+    color: #188814;
 }
 
 /* Header */
@@ -64,7 +64,7 @@ main {
 }
 
 main h1 {
-    color: #1b4332;
+    color: #53af53;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -75,7 +75,7 @@ section {
 }
 
 section h2 {
-    color: #2b9348;
+    color: #070707;
     border-bottom: 2px solid #74c69d;
     padding-bottom: 5px;
     margin-bottom: 15px;
